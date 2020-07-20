@@ -18,6 +18,15 @@ public class Assert1 {
 		System.out.println("Hi Hello good Morning");
 		System.out.println("How r u");
 		
+		System.out.println("Hi Hello good Morning1");
+		System.out.println("How r u1");
+		
+		System.out.println("Hi Hello good Morning2");
+		System.out.println("How r u3");
+		
+		System.out.println("Hi Hello good Morning3");
+		System.out.println("How r u2");
+		
 		
 
 	}
