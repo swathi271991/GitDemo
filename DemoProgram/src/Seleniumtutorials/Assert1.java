@@ -15,6 +15,9 @@ public class Assert1 {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 		
+		System.out.println("Hi Hello good Morning");
+		System.out.println("How r u");
+		
 		
 
 	}
